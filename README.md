@@ -1,4 +1,4 @@
-# My DSA & Python Notes
+# My DSA & Leetcode Notes
 
 This repository contains my practice and notes from learning **Data Structures & Algorithms in Python**.  
 
